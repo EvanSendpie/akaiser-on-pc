@@ -1,0 +1,427 @@
+Animal:
+
+ 
+
+Asiatic Black Bear:
+
+1st Courageous:bn5PUw{7
+2nd:bn.g(4~[
+ 
+
+Andean Condor
+
+1st:bn0b9/cS
+2nd:bn-K1r♥
+ 
+
+Great Hornbill:bn6lLXfq
+
+ 
+
+Grizzly Bear:bn0xtYH+
+
+ 
+
+Velez Ray:bn44^Y8k
+
+ 
+
+Indo-Pacific Sailfish:bn4pZ:Z!
+
+ 
+
+Spotted Hyena:bn5PWwqU
+
+ 
+
+Leopard:bn8QK|dv
+
+ 
+
+Snow Leopard:bn91G\5Z
+
+ 
+
+Goblin Shark:bn>E#l*2
+
+ 
+
+Sawshark:bn?#|KWr
+
+ 
+
+Great Horned Owl:bn7qPB5
+
+ 
+
+Bateleur:bn:M>x/s
+
+ 
+
+Brown Bear:bn=e(1Qk
+
+ 
+
+Indian Gavial:bn?#|LO3
+
+ 
+
+Yellow Anaconda:bn@@sgLW
+
+ 
+
+Rattlesnake:bn@|oFy;
+
+ 
+
+Large Carpenter Bee:bn;-:XT'
+
+ 
+
+European Paper Wasp:bn;i68#h
+
+ 
+
+Axolotl:bn9mCxIi
+
+ 
+
+Reticulated Giraffe:bn<I2RDU
+
+ 
+
+Swamp Wallaby:bn=e(mAy
+
+ 
+
+Japanese Rhino Beetle:bn@|pbSo
+
+ 
+
+Electric Ray:bn>E%I@R
+
+ 
+
+Cobalt Blue Tarantula:bn8QMzw?
+
+ 
+
+Footballfish:bn=(0/)Y
+
+ 
+
+Humpback Whale:bn=(h$S3
+
+ 
+
+Porcupinefish:bn?`{Ehp
+
+ 
+
+Narwhal:bn;i:1X/
+
+ 
+
+African Buffalo:bn>E_@PW
+
+ 
+
+Praying Mantis:bn:MCSB6
+
+ 
+
+Stag Beetle:bn>E)'#l
+
+ 
+
+Longtooth Stag Beetle:bn?$$cQP
+
+ 
+
+Luna Lionfish:bn=(3IJs
+
+ 
+
+Giant Panda:bn1~01Fn
+
+ 
+
+Gray Wolf:bn7qPA86 - Bronze
+
+2nd:bn0%gH9h - Normal
+ 
+
+Smalltooth Sawfish:bn=e(0ZN
+
+ 
+
+Nile Crocodile:bn>E#l~O
+
+ 
+
+Indian Rhinoceros:bn91G^(|
+
+ 
+
+Grey-headed Flying Fox:bn;-;7G1
+
+ 
+
+Dark Scorpion:bn>E%-V+
+
+ 
+
+Black Long Spine Urchin:bn@|qC;>
+
+ 
+
+Japanese Giant Salamander:bn=e*jw=
+
+ 
+
+Grey Nurse Shark:bn>E&J&}
+
+ 
+
+Black Panther:bn=e-+%7
+
+ 
+
+Mata Mata:bn7qTyGJ
+
+ 
+
+Dead Leaf Mantis:bn9mGsqR
+
+ 
+
+Golden Stag Beetle:bn+e.HT+
+
+ 
+
+Holstein:bn?`}B`4
+
+ 
+
+Komodo Dragon (GAK):bn;ipeXv
+
+ 
+
+Dugong:bn;i<.mO
+
+ 
+
+Spotted Garden Eel:bn@@z{il
+
+ 
+
+Polar Bear:bn0%=1?2 - Silver
+
+2nd:bn.fp(S@ - Normal
+ 
+
+Indian Cobra:bn1B4m'g
+
+ 
+
+African Elephant:bn2^@[9x
+
+ 
+
+Caucasus Beetle:bn6lMY_'
+
+ 
+
+Sperm Whale:bn.A*9vh
+
+ 
+
+Hammerhead Shark:bn=(-Q-j
+
+ 
+
+Golden Eagle:bnA\k$R^
+
+ 
+
+Asian Giant Hornet:bn:M>y&D
+
+ 
+
+Vampire Bat:bn:M?WvM
+
+ 
+
+American Alligator:bn7qQ^c0
+
+ 
+
+Starburst Tarantula:bn7qR?J[
+
+ 
+
+Spiny Flower Mantis:bn91L8Dn
+
+ 
+
+Bigfoot:bn8QPYq3
+
+ 
+
+Blue Coral Snake:bn<I7j>3
+
+ 
+
+Lion:bn4YzOr=
+
+ 
+
+Great White Shark:bn3z!1NN
+
+ 
+
+Bald Eagle:bn-JNnoS
+
+ 
+
+Bengal Tiger:bn1~Dytd
+
+ 
+
+Lowland Gorilla:bn1~o4o>
+
+ 
+
+Blue Hercules:bn5PVYv$
+
+ 
+
+Red Sea Urchin:bn1XqXdp
+
+ 
+
+Red Kangaroo:bn=(.1q9
+
+ 
+
+Hercules Beetle:bn?`yGVK
+
+ 
+
+Red Scorpion:bn=e)N(H
+
+ 
+
+Red Knee Tarantula:bn;i8p-5
+
+ 
+
+Blue Whale:bn=e+K>h
+
+ 
+
+King Cobra:bn@@w$9T
+
+ 
+
+Killer Whale:bn?aV[M{
+
+ 
+
+European Bison:bn<I5m'o
+
+ 
+
+Alligator Snapping Turtle:bnA\o\dm
+
+ 
+
+Giraffe Stag Beetle:bn=(2i&H
+
+ 
+
+Whale Shark:bn?$&`lH
+
+ 
+
+Courageous Cheetah:bn4[*j9C
+
+ 
+
+Courageous Coral Snake:bn.*WKZX
+
+ 
+
+Courageous Peregrine Falcon:bn3TbXv2
+
+ 
+
+Courageous Side-striped Jackal:bn44^:;F
+
+ 
+
+Courageous Brown Long-eared Bat:bn6lM:a_
+
+ 
+
+Courageous Indian Elephant:bn/\}x\N
+
+ 
+
+Courageous White Rhinoceros:bn0<yY}b
+
+ 
+
+Rich African Wild Dog:bn8QM@-z
+
+ 
+
+Rich Manta Ray:bn91H{Z^
+
+ 
+
+Rich Hippo Barry:bn=e)P|G
+
+ 
+
+Rich Hippo Harry:bn>E%0M*
+
+ 
+
+Giant Hippo Larry:bn;-?2nv
+
+ 
+
+Giant Orangutan:bn<I6Ml>
+
+ 
+
+Giant Florida Bark Scorpion:bn=(2-<~
+
+ 
+
+Giant Purple Sea Urchin:bn=e-hib
+
+ 
+
+Pieces Piranha:bn;-A0':
+
+ 
+
+Donchan:bn?#|NI=
+
+ 
+
+Kacchan:bn=e*kTB
+
+ 
+
+Rich Lion & Rich Cheetah:
+
+ 
+
+Fighter:bn;-;w$[
+
+ 
+
+Friend:bn;i7eyk
