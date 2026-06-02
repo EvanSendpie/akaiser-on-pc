@@ -43,11 +43,12 @@ Panduan ini menjelaskan cara mengatur dan memainkan *Animal Kaiser* (game arcade
 3. Jika muncul gambar seperti di bawah, jangan panik. Saya berikan troublesshootnya.
    <img width="478" height="283.5" alt="image" src="https://github.com/user-attachments/assets/b2840955-c258-4888-a86a-5427bc88cc78" />
 
-4. Tahan tombol 1 maka akan memunculkan Menu, pilih ke **COIN OPTIONS** dengan menekan "Z" tanpa melepas tombol 1.
-5. Kemudian pada opsi free play, ganti menjadi **ON**.
-6. Setelah itu pilih exit dengan mennekan tombol "Z".
-7. Pilih **GAME OPTIONS** dengan menekan tombol "Z".
-8. Sesuaikan dengan setting saya ini, terutama pada setting **"CARD DISPENSER ENABLE"** wajib di-OFFkan.
+4. Jika disuruh menekan tombol Enter, tekan huruf 'Z' pada keyboard anda.
+5. Tahan tombol 1 maka akan memunculkan Menu, pilih ke **COIN OPTIONS** dengan menekan "Z" tanpa melepas tombol 1.
+6. Kemudian pada opsi free play, ganti menjadi **ON**.
+7. Setelah itu pilih exit dengan mennekan tombol "Z".
+8. Pilih **GAME OPTIONS** dengan menekan tombol "Z".
+9. Sesuaikan dengan setting saya ini, terutama pada setting **"CARD DISPENSER ENABLE"** wajib di-OFFkan.
    <img width="465" height="285" alt="image" src="https://github.com/user-attachments/assets/e963e738-66c1-4048-aeef-6c4ada1e24ef" />
 
 10. Untuk settingan lainnya siilahkan menyesuaikan masing masing.
