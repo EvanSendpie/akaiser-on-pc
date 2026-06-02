@@ -10,7 +10,7 @@ Panduan ini menjelaskan cara mengatur dan memainkan *Animal Kaiser* (game arcade
 ## Langkah-langkah Instalasi & Konfigurasi
 
 ### 1. Persiapan Emulator
-1.  Unduh emulator Play! dari situs resmi [purei.org](https://purei.org/).
+1.  Unduh emulator Play! dari situs resmi [purei.org](https://purei.org/). Atau bisa pada kolom "Release" repo ini.
 2.  Ekstrak file emulator ke folder yang diinginkan di PC Anda.
 3.  Jalankan file `Play.exe` (untuk Windows).
 4.  Sesuaikan setting di emulator Play! Seperti gambar di bawah ini:
