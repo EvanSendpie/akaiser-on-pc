@@ -23,7 +23,7 @@ Panduan ini menjelaskan cara mengatur dan memainkan *Animal Kaiser* (game arcade
 8.  Jika dirasa sudah seleasi, bisa klik close.
 
 ### 2. Memuat Game
-1.  Ekstrak file ROM yang sudah saya bagikan dengan nama file ```KP012B_AnimalKaiserNAND```, yang kemudian setelah di ekstrak muncul file ```kp012b_k9k8g08u0b.ic31```.
+1.  Ekstrak file ROM yang sudah saya bagikan di Releases dengan nama file ```KP012B_AnimalKaiserNAND```, yang kemudian setelah di ekstrak muncul file ```kp012b_k9k8g08u0b.ic31```.
 2.  Pindahkan file ROM tersebut ke ```C:\Users\(nama user)\Documents\Play Data Files\arcaderoms\``` dan buat folder baru bernama akaiser.
 3.  Buka emulator Play!.
 4.  Klik menu **File** > **Open** atau **Load**.
