@@ -74,7 +74,7 @@ Panduan ini menjelaskan cara mengatur dan memainkan *Animal Kaiser* (game arcade
 
 1. Unduh AKCardScannerEmulator dan Database barcode kartu di repositori ini.
 2. Extract ke suatu folder yang mudah dijangkau pada komputer.
-3. Pastikan sudah terinstall .NET Desktop Runtime pada komputer (jika belum, bias langsung membuka file dan akan ter-redirect ke link downloadnya).
+3. Pastikan sudah terinstall .NET Desktop Runtime pada komputer (jika belum, bisa langsung membuka file dan akan ter-redirect ke link downloadnya).
 4. Buka file AKCardSimulatorEmulator.exe (100% aman, abaikan warning yang muncul).
 5. Setelah masuk, cocokkan Server Port pada emulator kartu dengan emulator Play! Defaultnya di 9876.
 6. Buka emulator Play! dan jalankan Animal Kaiser sesuai panduan di atas.
