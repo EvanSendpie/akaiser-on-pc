@@ -24,11 +24,10 @@ Panduan ini menjelaskan cara mengatur dan memainkan *Animal Kaiser* (game arcade
 
 ### 2. Memuat Game
 1.  Ekstrak file ROM yang sudah saya bagikan di Releases dengan nama file ```KP012B_AnimalKaiserNAND```, yang kemudian setelah di ekstrak muncul file ```kp012b_k9k8g08u0b.ic31```.
-2.  Pindahkan file ROM tersebut ke ```C:\Users\(nama user)\Documents\Play Data Files\arcaderoms\``` dan buat folder baru bernama akaiser.
+2.  Pindahkan file ROM tersebut ke lokasi file ROM yang dikonfigurasi di emulator, defaultnya berada di ```C:\Users\(nama user)\Documents\Play Data Files\arcaderoms\``` dan buat folder baru bernama ```akaiser```.
 3.  Buka emulator Play!.
-4.  Klik menu **File** > **Open** atau **Load**.
-5.  Cari file ISO game *Animal Kaiser* yang sudah Anda miliki di direktori komputer Anda, saya meletakkan di ```C:\Users\Stefanus Evan\Documents\Play Data Files\arcaderoms\akaiser```.
-6.  Game akan mulai berjalan secara otomatis.
+4.  Klik pada kotak-kotak yang bertuliskan Animal Kaiser Evolution (1-8).
+5.  Game seharusnya akan otomatis terbuka dimulai dengan black screen namun pada pojok kiri bawah emulator muncul tulisan "Started arcade machine 'akaiser(versi).arcadedef'.
 
 ### 3. Konfigurasi Kontroler
 1.  Masuk ke menu **Settings** atau **Input** pada emulator.
